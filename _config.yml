@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hammed Olawale Fatoyinbo, Mr"
+title                    : "Hammed Olawale Fatoyinbo"
 title_separator          : "-"
 name                     : &name "Hammed Olawale Fatoyinbo"
 description              : &description "PhD Candidate at Massey University, New Zealand"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate in Applied Mathematics"
   location         : "Palmerston Notrh, New Zealand"
-  employer         : "School of Fundamental Sciences, Massey University"
+  employer         : "Massey University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bJG2xVMAAAAJ&hl=en&authuser=3"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/hammed-fatoyinbo/"
+  linkedin         :  "https://linkedin.com/in/hammed-fatoyinbo/"
   orcid            : "http://orcid.org/0000-0002-6036-2957"
   pinterest        :
   soundcloud       :
