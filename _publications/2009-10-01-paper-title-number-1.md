@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://link.springer.com/article/10.1007/s11538-020-00771-6)
 
-Recommended citation: Fatoyinbo, H. O. et al (2020). "Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells" <i>Bull Math Biol</i>. 1(1).
+Recommended citation: Fatoyinbo, H. O. et al (2020). "Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells" <i>Bull Math Biol</i>. 82(95).
