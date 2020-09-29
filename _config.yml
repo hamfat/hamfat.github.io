@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hammed Olawale Fatoyinbo"
-  avatar           :"profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate in Applied Mathematics"
   location         : "Palmerston Notrh, New Zealand"
   employer         : "Massey University"
