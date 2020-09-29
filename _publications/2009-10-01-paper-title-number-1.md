@@ -1,10 +1,10 @@
 ---
 title: "Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-07-16-Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2020-07-16
+venue: 'Bull Math Biol'
 paperurl: 'https://link.springer.com/article/10.1007/s11538-020-00771-6'
 citation: 'Fatoyinbo, H. O. et al (2020). &quot;Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells&quot; <i>Bull Math Biol</i>. 82(95).'
 ---
