@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "https://linkedin.com/in/hammed-fatoyinbo/"
+  linkedin         : "hammed-fatoyinbo"
   orcid            : "http://orcid.org/0000-0002-6036-2957"
   pinterest        :
   soundcloud       :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+   # output: true
+   # permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
