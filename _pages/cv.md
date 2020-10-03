@@ -75,9 +75,9 @@ Service and leadership
 * Marker and Reviewer, Massey University Mathematics and Statistics (M3S) Quiz, 2019 
 * Conference Co-organiser, New Zealand Mathematics and Statistics Postgraduate Conference, Massey University, 2018
 * President, Massey Muslim Society , Massey University, 2018
-* Student Volunteer, Professional & Continuing Education (PaCE) , Massey University, 2017
+* Student Volunteer, Professional & Continuing Education (PaCE), Massey University, 2017
 * President, Muslim Corpers Association of Nigeria (MCAN), Kogi State, Nigeria, 2016
-* Member, Drug Free Club, National Youth Service Corps Kogi State, 2016
+* Member, Drug Free Club, National Youth Service Corps (NYSC), Kogi State, 2016
 * Financial Secretary, Mathematics Students Association, Federal University of Technology, Akure, 2011
 * Chief Clerk, Statistics Students Association, Federal Polytechnic, Ede, 2006.
 
