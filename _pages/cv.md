@@ -20,31 +20,27 @@ Employment History
 ======
 * 2019-Present: Academic Assistant
   * School of Fundamental Sciences, Massey University
-  * Duties included: Teaching
   
 * 2017-2020: Graduate Assistant in Mathematics
   * School of Fundamental Sciences, Massey University
-  * Duties included: Teaching, marking and supervision of continuous assessment
   
 * 2015-2016: Instructor: Mathematics and Physics
   * Alhikmat Science College, Lokoja
-  * Duties included: Teaching, supervised examinations and continuous assessments, laboratory practicals
-  
+
 * 2011: Data Analyst (Internship)
   * Lagos State Ministry of Education, Alausa-Ikeja
-  * Duties included: 
   
- Professional Organisations
+  
+Professional Organisations
  ====
-  * Society for Mathematical Biology (SMB), \textit{2020}
-  * Society for Industrial and Applied Mathematics (SIAM), \textit{since 2017}.
-  * New Zealand Mathematical Society (NZMS), \textit{since 2018}.
-  * Australian and New Zealand Industrial and Applied Mathematics (ANZIAM), \textit{since 2018}.
-  * Nigerian Mathematical Society (NMS), \textit{2013}
+* Society for Mathematical Biology (SMB)
+* Society for Industrial and Applied Mathematics (SIAM)
+* New Zealand Mathematical Society (NZMS)
+* Australian and New Zealand Industrial and Applied Mathematics (ANZIAM)
   
  Computer Language Capabilities
  ===
- * Matlab, Python, \LaTeX, XppAut, AUTO, Matcont, Microsoft office
+ * Matlab, Python, LaTeX, XppAut, AUTO, Matcont, Microsoft office
   
   
 Skills
@@ -76,4 +72,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Marker and Reviewer, Massey University Mathematics and Statistics (M3S) Quiz, 2019 
+* Conference Co-organiser, New Zealand Mathematics and Statistics Postgraduate Conference, Massey University, 2018
+* President, Massey Muslim Society , Massey University, 2018
+* Student Volunteer, Professional & Continuing Education (PaCE) , Massey University, 2017
+* President, Muslim Corpers Association of Nigeria (MCAN), Kogi State, Nigeria, 2016
+* Member, Drug Free Club, National Youth Service Corps Kogi State, 2016
+* Financial Secretary, Mathematics Students Association, Federal University of Technology, Akure, 2011
+* Chief Clerk, Statistics Students Association, Federal Polytechnic, Ede, 2006.
+
+ 
