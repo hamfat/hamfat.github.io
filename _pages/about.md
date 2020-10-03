@@ -11,9 +11,9 @@ Welcome to my homepage. I am a doctoral candidate in the School of Fundamental S
 
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B. Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.
 
--Research Interest
--======
--Mathematical physiology, Pattern formation theory, Dynamical systems, Disease modelling, Solitons
+Research Interest
+======
+Mathematical physiology, Pattern formation theory, Dynamical systems, Disease modelling, Solitons
 
 
 
