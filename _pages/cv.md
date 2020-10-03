@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Statistics, Federal Polytechnic, Ede (Nigeria), 2008
+* B.Tech. in Industrial Mathematics, Federal University of Technology, Akure (Nigeria), 2012
+* M.Sc in Jekyll, African Institute for Mathematical Sciences, Accra (Ghana), 2014
+* Ph.D in Mathematics (in view), Massey University, Palmerston North, (New Zealand)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-Present: Academic Assistant
+  * Massey University
+  * Duties included: Teaching
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2020: Graduate Assistant
+  * Massey University
+  * Duties included: Teaching, marking and supervision of continuous assessment
+  
   
 Skills
 ======
