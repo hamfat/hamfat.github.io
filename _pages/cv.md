@@ -38,9 +38,9 @@ Professional Organisations
 * New Zealand Mathematical Society (NZMS)
 * Australian and New Zealand Industrial and Applied Mathematics (ANZIAM)
   
- Computer Language Capabilities
- ======
- * Matlab, Python, LaTeX, XppAut, AUTO, Matcont, Microsoft office
+Computer Language Capabilities
+======
+* Matlab, Python, LaTeX, XppAut, AUTO, Matcont, Microsoft office
   
   
 Skills
