@@ -32,14 +32,14 @@ Employment History
   
   
 Professional Organisations
- ====
+======
 * Society for Mathematical Biology (SMB)
 * Society for Industrial and Applied Mathematics (SIAM)
 * New Zealand Mathematical Society (NZMS)
 * Australian and New Zealand Industrial and Applied Mathematics (ANZIAM)
   
  Computer Language Capabilities
- ===
+ ======
  * Matlab, Python, LaTeX, XppAut, AUTO, Matcont, Microsoft office
   
   
