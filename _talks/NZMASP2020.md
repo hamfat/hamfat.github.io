@@ -8,4 +8,4 @@ date: 2020-11-26
 location: "Auckland, New Zealand (Online)"
 ---
 
-Abstract: We prove the existence of travelling waves solutions in a model of electrically coupled pacemaker smooth muscle cells and numerically approximate the wave speed using the shooting method. We also investigate the spectrum of the linear operator of the model linearised about atravelling wave and compute the essential spectrum of the linear operator. In this talk, I will describe the spectral stability of associated travelling wave solutions and show how stable propagating solutions can lose stability as model parameters are varied.
+Abstract: We prove the existence of travelling waves solutions in a model of electrically coupled pacemaker smooth muscle cells and numerically approximate the wave speed using the shooting method. We also investigate the spectrum of the linear operator of the model linearised about a travelling wave and compute the essential spectrum of the linear operator. In this talk, I will describe the spectral stability of associated travelling wave solutions and show how stable propagating solutions can lose stability as model parameters are varied.
