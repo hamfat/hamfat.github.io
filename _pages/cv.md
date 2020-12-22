@@ -43,14 +43,12 @@ Computer Language Capabilities
 * Matlab, Python, LaTeX, XppAut, AUTO, Matcont, Microsoft office
   
   
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
+Skills
+======
+* Research
+* Communication
+* Data analysis
+* Leadership
 
 Publications
 ======
