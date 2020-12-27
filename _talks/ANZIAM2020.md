@@ -8,5 +8,5 @@ date: 2020-02-25
 location: "NSW, Australia"
 ---
 
-[More information here](http://www.maths.mq.edu.au/ANZIAM2020/)
+[Abstract](https://register.austms.org.au/Conferences/ANZIAM2020/pdf/talk5222.pdf)
 
