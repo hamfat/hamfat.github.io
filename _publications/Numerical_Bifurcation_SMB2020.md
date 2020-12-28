@@ -12,4 +12,7 @@ Abstract: Evidence from experimental studies shows that oscillations due to elec
 
 [Download paper here](https://rdcu.be/b7QKT)
 
-Recommended citation: Fatoyinbo, H. O. et al (2020). "Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells" <i>Bull Math Biol</i>. 82(95).
+Recommended citation: Abidemi, A., Fatoyinbo, H. O., Joshua, K. K. (2020). "Analysis of Dengue Fever Transmission Dynamics with Multiple Controls: A Mathematical Approach"<i>IEEE Xplore </i>. 1(2).
+
+
+
