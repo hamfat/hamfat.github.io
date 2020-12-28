@@ -13,11 +13,3 @@ In recognition of #BlackinMathBIOLOGY  the Society of Mathematical Biology #Blac
 
 [Twitter thread](https://twitter.com/SMB_MathBiology/status/1326319365566783489)
 
-%Headings are cool
-%======
-
-%You can have many headings
-%======
-
-%Aren't headings cool?
-%------
