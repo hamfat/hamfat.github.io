@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Dengue Fever Transmission Dynamics with Multiple Controls: A Mathematical Approach"
 collection: publications
-permalink: /publication/2020-09-15-Influence of Sodium Inward Current on Dynamical Behaviour of Modified Morris-Lecar Model
+permalink: /publication/2020-11-08-Analysis of Dengue Fever Transmission Dynamics with Multiple Controls: A Mathematical Approach
 excerpt: ''
 date: 2020-09-15
 venue: 'To Appear'
