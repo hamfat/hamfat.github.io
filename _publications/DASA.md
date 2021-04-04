@@ -1,12 +1,11 @@
 ---
-title: "Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells"
+title: "Analysis of Dengue Fever Transmission Dynamics with Multiple Controls: A Mathematical Approach"
 collection: publications
-permalink: /publication/2020-07-16-Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells
+permalink: /publication/2020-11-09-Analysis of Dengue Fever Transmission Dynamics with Multiple Controls: A Mathematical Approach
 excerpt: ''
-date: 2020-07-16
-venue: 'Bulletin of Mathematical Biology'
-paperurl: 'https://link.springer.com/article/10.1007/s11538-020-00771-6'
-citation: 'Fatoyinbo, H. O., Brown, R. G., Simpson, D. J. W, van Brunt, B. (2020). &quot;Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells&quot; <i>Bull Math Biol</i>. 82(95).'
+date: 2020-11-09
+venue: ''2020 International Conference on Decision Aid Sciences and Application (DASA)'
+paperurl: 'https://edas.info/showPaper.php?m=1570679844'
+citation: 'Abidemi, A., Fatoyinbo, H. O., Asamoah, J. K. K. (2020). &quot;Analysis of Dengue Fever Transmission Dynamics with Multiple Controls: A Mathematical Approach&quot; <i>IEEE Xplore</i>. pp.971-978.'
 ---
-Abstract: Evidence from experimental studies shows that oscillations due to electro-mechanical coupling can be generated spontaneously in smooth muscle cells. Such cellular dynamics are known as pacemaker dynamics. In this article, we address pacemaker dynamics associated with the interaction of Ca2+ and K+ fluxes in the cell membrane of a smooth muscle cell. First we reduce a pacemaker model to a two-dimensional system equivalent to the reduced Morris–Lecar model and then perform a detailed numerical bifurcation analysis of the reduced model. Existing bifurcation analyses of the Morris–Lecar model concentrate on external applied current, whereas we focus on parameters that model the response of the cell to changes in transmural pressure. We reveal a transition between Type I and Type II excitabilities with no external current required. We also compute a two-parameter bifurcation diagram and show how the transition is explained by the bifurcation structure.
-
+Abstract: Dengue is a mosquito-borne viral infection caused by the dengue viruses of four serotypes, DENV-1,2,3,4. The disease is transmitted by the bites of infected female Aedes mosquitoes. This paper presents a compartmental deterministic model including human prevention and vector control interventions for the dynamics of dengue fever spread. Theoretical analysis of the model is conducted to obtain the associated dengue-free equilibrium. The next generation matrix method is used to calculate the effective reproduction number. The local stability analysis of the dengue-free equilibrium is presented. Numerical simulations of different strategies of control combination are considered, and how they impact the dynamical behaviour of the system are analysed. We found that dengue prevalence can be reduced in a community by implementing any control intervention which combines human prevention and vector control measures.
