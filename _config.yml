@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hammed Olawale Fatoyinbo"
 title_separator          : "-"
 name                     : &name "Hammed Olawale Fatoyinbo"
-description              : &description "PhD Candidate at Massey University, New Zealand"
+description              : &description "Applied Mathematician at Massey University, New Zealand"
 url                      : https://hamfat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hamfat.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hammed Olawale Fatoyinbo"
   avatar           : "m1.jpg"
-  bio              : "PhD Candidate in Applied Mathematics"
+  bio              : "Applied Mathematician"
   location         : "Palmerston Notrh, New Zealand"
   employer         : "Massey University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bJG2xVMAAAAJ&hl=en&authuser=3"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hammed-Fatoyinbo"
   uri              :
   bitbucket        :
   codepen          :
