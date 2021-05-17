@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics (in view), Massey University, Palmerston North, (New Zealand)
+* Ph.D in Mathematics, Massey University, Palmerston North, (New Zealand), 2021
 * M.Sc in Mathematical Sciences, African Institute for Mathematical Sciences, Accra (Ghana), 2014
 * B.Tech in Industrial Mathematics, Federal University of Technology, Akure (Nigeria), 2012
 * Diploma in Statistics, Federal Polytechnic, Ede (Nigeria), 2008
