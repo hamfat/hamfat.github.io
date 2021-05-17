@@ -21,12 +21,16 @@ Research Interest
 Mathematical physiology, Pattern formation theory, Dynamical systems, Disease modelling, Solitons
 
 
-News
+News: 
 ===
-April 2021.  Received a Student Travel Award in the form of a registration waiver for the SIAM Conference on Applications of Dynamical Systems (DS21).
-March 2021. PhD Thesis Defense. 
+* April 2021.  I received a Student Travel Award in the form of a registration waiver for the  <a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
+* I successfully defended my <a href="https://twitter.com/rgbrown/status/1376367443963117574">PhD thesis</a> on March 29, 2021. 
 
-
+Upcoming Activities:
+===
+* May 23-27, 2021: SIAM Conference on Applications of Dynamical Systems (DS21)
+* June 13-17, 2021: SMB Annual Meeting
+* August 23-27, 2021: Dynamics Days Europe
 
 
 
