@@ -15,7 +15,7 @@ Research Interest
 ======
 Mathematical physiology, Pattern formation theory, Dynamical systems, Disease modelling, Solitons
 
-<img src="images/cool.JPG" alt="spatiotemporalchaos"  height="450" width="250" class="inline"/> <img src="images/patt.JPG" alt="spatiotemporalchaos"  height="450" width="250" class="inline"/> 
+<img src="images/cool.JPG" alt="spatiotemporalchaos"  height="450" width="250" class="inline"/> <img src="images/patt.JPG" alt="pattern1"  height="450" width="250" class="inline"/> 
 
 News
 ===
