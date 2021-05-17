@@ -11,7 +11,7 @@ I am a postdoctoral fellow in the Department of Mathematics, <a href="https://ww
 
 My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell. I analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials.
 
- <img src="images/SMC_coupled.JPG" alt="SMC"  height="600" width="400" class="inline"/><img src="images/patt1.JPG" alt="pattern1"  height="600" width="400" class="inline"/>
+ <img src="images/SMC_coupled.JPG" alt="SMC"  height="400" width="250" class="inline"/><img src="images/patt1.JPG" alt="pattern1"  height="400" width="250" class="inline"/>
 
 
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.
