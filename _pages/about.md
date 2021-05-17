@@ -12,7 +12,7 @@ I am a postdoctoral fellow in the Department of Mathematics, <a href="https://ww
 My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell. I analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials.
 
  <img src="images/patt.JPG" alt="pattern1"  height="600" width="400" class="inline"/>  
- <img src="images/SMC_coupled.JPG" alt="pattern1"  height="600" width="400" class="inline"/>
+ <img src="images/SMC_coupled.JPG" alt="SMC"  height="600" width="400" class="inline"/>
  
 
 
