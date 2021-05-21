@@ -19,7 +19,8 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News
 ===
-* April 2021.  I received a Student Travel Award in the form of a registration waiver for the  <a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
+* April 2021. Abstract accepted for the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a> as a contributed poster.
+* April 2021.  I received a Student Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
 * I successfully defended my <a href="https://twitter.com/rgbrown/status/1376367443963117574">PhD thesis</a> on March 29, 2021. 
 
 Upcoming Activities
@@ -28,6 +29,10 @@ Upcoming Activities
 * May 27-28, 2021: Genomics Aotearoa RNA-Seq workshop
 * June 13-17, 2021: SMB Annual Meeting
 * August 23-27, 2021: Dynamics Days Europe
+
+Past Activities
+===
+* February 2021: Contributed talk at ANZIAM Conference.
 
 
 
