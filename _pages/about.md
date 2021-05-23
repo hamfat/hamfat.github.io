@@ -25,10 +25,10 @@ News
 
 Upcoming Activities
 ===
-* May 23-27, 2021: SIAM Conference on Applications of Dynamical Systems (DS21
-* May 24, 2021: Workshop on PDE Models in Mathematical Biology hosted by <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology .  
+* May 23-27, 2021: SIAM Conference on Applications of Dynamical Systems (DS21  
 * May 27-28, 2021: Genomics Aotearoa RNA-Seq workshop
 * June 13-17, 2021: SMB Annual Meeting
+* June 24, 2021: Workshop on PDE Models in Mathematical Biology hosted by <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology .
 * August 23-27, 2021: Dynamics Days Europe
 
 Past Activities
