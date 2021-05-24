@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Fundamental Sciences</a> at Massey University, Palmerston North. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David Simpson</a>. I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>.
 
-My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell. I analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials.
+My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell. I analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. 
 
  <img src="images/SMC.JPG" alt="SMC"  height="400" width="250" class="inline"/><img src="images/patt1.JPG" alt="pattern1"  height="400" width="250" class="inline"/> 
 
@@ -25,10 +25,10 @@ News
 
 Upcoming Activities
 ===
-* May 23-27, 2021: SIAM Conference on Applications of Dynamical Systems (DS21  
+* May 23-27, 2021: SIAM Conference on Applications of Dynamical Systems (DS21)
 * May 27-28, 2021: Genomics Aotearoa RNA-Seq workshop
 * June 13-17, 2021: SMB Annual Meeting
-* June 24, 2021: Workshop on PDE Models in Mathematical Biology hosted by <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology .
+* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host:<a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology
 * August 23-27, 2021: Dynamics Days Europe
 
 Past Activities
