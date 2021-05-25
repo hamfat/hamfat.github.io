@@ -17,9 +17,9 @@ My research interests lie in application of dynamical systems theory to practica
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.
 
 
-News
+News  
 ===
-* April 2021. Abstract accepted for the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a> as a contributed poster.
+* April 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Abstract</a> accepted as a contributed poster for the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>.
 * April 2021.  I received a Student Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
 * I successfully defended my <a href="https://twitter.com/rgbrown/status/1376367443963117574">PhD thesis</a> on March 29, 2021. 
 
