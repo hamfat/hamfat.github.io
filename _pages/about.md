@@ -23,15 +23,16 @@ News
 * April 2021. I received a Student Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/ds21"> SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
 * I successfully defended my <a href="https://twitter.com/rgbrown/status/1376367443963117574"> PhD thesis </a> on March 29, 2021. 
 
-Upcoming Activities
+Upcoming activities
 ===
 * May 23-27, 2021: <a href="https://www.siam.org/conferences/cm/conference/ds21"> SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
 * May 27-28, 2021: Genomics Aotearoa RNA-Seq workshop.
 * June 13-17, 2021: <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology.
+* June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a> 
 * August 23-27, 2021: <a href="https://dynamicsdays2020.univ-cotedazur.fr/"> Dynamics Days Europe</a>.   
 
-Past Activities
+Past activities
 ===
 * February 2021: Contributed talk at ANZIAM Conference.
 
