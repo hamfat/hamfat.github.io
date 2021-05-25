@@ -20,15 +20,15 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 News  
 ===
 * April 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Abstract</a> accepted as a contributed poster for the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>.
-* April 2021.  I received a Student Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/ds21">SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
-* I successfully defended my <a href="https://twitter.com/rgbrown/status/1376367443963117574">PhD thesis</a> on March 29, 2021. 
+* April 2021. I received a Student Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/ds21"> SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
+* I successfully defended my <a href="https://twitter.com/rgbrown/status/1376367443963117574"> PhD thesis </a> on March 29, 2021. 
 
 Upcoming Activities
 ===
 * May 23-27, 2021: SIAM Conference on Applications of Dynamical Systems (DS21)
 * May 27-28, 2021: Genomics Aotearoa RNA-Seq workshop
 * June 13-17, 2021: SMB Annual Meeting
-* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host:<a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology
+* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology
 * August 23-27, 2021: Dynamics Days Europe
 
 Past Activities
