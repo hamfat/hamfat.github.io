@@ -25,6 +25,7 @@ News
 
 Upcoming activities
 ===
+* June 1-4, 2021: <a href="https://www.eventbrite.co.uk/e/5th-softmech-soft-tissue-workshop-1st-3rd-june-2021-tickets-153446381257?utm_source=eventbrite&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname">5th SofTMech Soft Tissue Modelling workshop: On-line</a>. 
 * June 13-17, 2021: <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology.
 * June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a>.
