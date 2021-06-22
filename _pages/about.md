@@ -19,7 +19,7 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
-* June 2021. <a href="schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Poster presentation</a> at the 2021 SMB Annual Meeting. 
+* June 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Poster presentation</a> at the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 2021. <a href="https://twitter.com/SofTMech/status/1400117375538761735">Poster presentation</a> at the <a href="http://www.softmech.org/events/headline_791379_en.html">5th SofTMech Soft Tissue Modelling workshop</a>. 
 * May 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Abstract</a> accepted as a contributed poster for the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>.
 * April 2021. I received a Student Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/ds21"> SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
