@@ -19,6 +19,7 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
+July 2021. I received a Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
 * June 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Poster presentation</a> at the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 2021. <a href="https://twitter.com/SofTMech/status/1400117375538761735">Poster presentation</a> at the <a href="http://www.softmech.org/events/headline_791379_en.html">5th SofTMech Soft Tissue Modelling workshop</a>. 
 * May 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Abstract</a> accepted as a contributed poster for the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>.
@@ -27,12 +28,14 @@ News
 
 Upcoming activities
 ===
-* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology.
-* June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a>.
+* July 19-23, 2021: <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
+* August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
 * August 23-27, 2021: <a href="https://dynamicsdays2020.univ-cotedazur.fr/"> Dynamics Days Europe</a>.   
 
 Past activities
 ===
+* June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a>.
+* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology.
 * June 13-17, 2021: <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 1-4, 2021: <a href="http://www.softmech.org/events/headline_791379_en.html">5th SofTMech Soft Tissue Modelling workshop: On-line</a>. 
 * May 23-27, 2021: <a href="https://www.siam.org/conferences/cm/conference/ds21"> SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
