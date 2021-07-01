@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-09-15-Influence of Sodium Inward Current on Dynamical Behaviour of Modified Morris-Lecar Model
 excerpt: ''
 date: 2020-09-15
-venue: 'To Appear'
+venue: 'Submitted'
 citation: 'Fatoyinbo, H. O., Abidemi, A., Muni, S. S. (2020). &quot;Influence of Sodium Inward Current on Dynamical Behaviour of Modified Morris-Lecar Model.&quot; <i>Arxiv 1</i>. 1(2).'
 ---
 
