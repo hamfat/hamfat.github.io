@@ -22,7 +22,7 @@ Education
 
 Employment History
 ======
-* 2019-2021: Research Officer in Mathematics
+* 2021-Present: Research Officer in Mathematics
   * School of Fundamental Sciences, Massey University
 * 2019-2021: Academic Assistant
   * School of Fundamental Sciences, Massey University
