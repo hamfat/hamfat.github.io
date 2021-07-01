@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<embed src="https://hamfat.github.io/Hamfat_CV.pdf" type="application/pdf" />
+
+
+[Full Version](https://hamfat.github.io/Hamfat_CV.pdf){: .btn .btn--inverse .btn--small} 
+
 
 Education
 ======
@@ -18,7 +22,9 @@ Education
 
 Employment History
 ======
-* 2019-Present: Academic Assistant
+* 2019-2021: Research Officer in Mathematics
+  * School of Fundamental Sciences, Massey University
+* 2019-2021: Academic Assistant
   * School of Fundamental Sciences, Massey University
   
 * 2017-2020: Graduate Assistant in Mathematics
@@ -50,24 +56,6 @@ Skills
 * Data analysis
 * Leadership
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
- # {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Marker and Reviewer, Massey University Mathematics and Statistics (M3S) Quiz, 2019 
