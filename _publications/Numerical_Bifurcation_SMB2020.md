@@ -1,7 +1,7 @@
 ---
 title: "Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells"
 collection: publications
-permalink: /publication/2020-07-16-Numerical Bifurcation Analysis of Pacemaker Dynamics in a Model of Smooth Muscle Cells
+permalink: /publications/Numerical_Bifurcation_SMB2020
 date: 2020-07-16
 venue: 'Bulletin of Mathematical Biology'
 paperurl: 'https://link.springer.com/article/10.1007/s11538-020-00771-6'
