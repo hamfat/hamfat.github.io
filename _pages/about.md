@@ -28,12 +28,12 @@ News
 
 Upcoming activities
 ===
-* July 19-23, 2021: <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
-* August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
 * August 23-27, 2021: <a href="https://dynamicsdays2020.univ-cotedazur.fr/"> Dynamics Days Europe</a>.   
 
 Past activities
 ===
+* July 19-23, 2021: <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
+* August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
 * June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a>.
 * June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology.
 * June 13-17, 2021: <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
