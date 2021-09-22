@@ -19,7 +19,7 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
-* August 2021. Abstract of my PhD Thesis was published in the <a href="http://nzmathsoc.org.nz/downloads/newsletters/NZMSnews142_Aug2021.pdf?t=1630274000"> NZMS</a> newsletter.
+* August 2021. PhD abstract published in the <a href="http://nzmathsoc.org.nz/downloads/newsletters/NZMSnews142_Aug2021.pdf?t=1630274000"> NZMS</a> newsletter.
 * July 2021. I received a Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
 * June 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Poster presentation</a> at the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 2021. <a href="https://twitter.com/SofTMech/status/1400117375538761735">Poster presentation</a> at the <a href="http://www.softmech.org/events/headline_791379_en.html">5th SofTMech Soft Tissue Modelling workshop</a>. 
@@ -29,10 +29,13 @@ News
 
 Upcoming activities
 ===
-* September 6-9, 2021: <a href="https://sites.google.com/view/modis2021/home-page?authuser=0"> Modelling Diffusive Systems: Theory & Biological Applications</a>.   
+* December 7-9, 2021: <a href="https://nzmathsoc.org.nz/colloquium2021/home.php"> New Zealand Mathematical Society Colloquium</a>, University of Canterbury, Christchurch.
+* November 22-26, 2021: Dynamical Systems in NZ
+* September 26-October 1, 2021: <a href="http://www.birs.ca/events/2021/5-day-workshops/21w5225/participants"> Modeling and Computational Approaches to Individual and Collective Cell Movement in Complex Environments (Online)</a>.   
 
 Past activities
 ===
+* September 6-9, 2021: <a href="https://sites.google.com/view/modis2021/home-page?authuser=0"> Modelling Diffusive Systems: Theory & Biological Applications</a>.  
 * August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
 * July 19-23, 2021: <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
 * June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a>.
