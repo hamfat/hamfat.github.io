@@ -31,10 +31,11 @@ Upcoming activities
 ===
 * December 7-9, 2021: <a href="https://nzmathsoc.org.nz/colloquium2021/home.php"> New Zealand Mathematical Society Colloquium</a>, University of Canterbury, Christchurch.
 * November 22-26, 2021: Dynamical Systems in NZ
-* September 26-October 1, 2021: <a href="http://www.birs.ca/events/2021/5-day-workshops/21w5225/participants"> Modeling and Computational Approaches to Individual and Collective Cell Movement in Complex Environments (Online)</a>.   
+   
 
 Past activities
 ===
+* September 26-October 1, 2021: <a href="http://www.birs.ca/events/2021/5-day-workshops/21w5225/participants"> Modeling and Computational Approaches to Individual and Collective Cell Movement in Complex Environments (Online)</a>.
 * September 6-9, 2021: <a href="https://sites.google.com/view/modis2021/home-page?authuser=0"> Modelling Diffusive Systems: Theory & Biological Applications</a>.  
 * August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
 * July 19-23, 2021: <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
