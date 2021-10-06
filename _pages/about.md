@@ -26,7 +26,7 @@ I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.
 </div>
 </body>
 
-My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell. I analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials.
+My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David Simpson</a>
 <body>
  <div style="text-align:center">
   <div class="container">
