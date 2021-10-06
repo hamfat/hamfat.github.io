@@ -23,11 +23,11 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
  <div style="text-align:center">
   <div class="container">
    <img src="images/SMC.JPG"  height="400" width="250"/> 
-           <p style="color:black;font-size:17px;">A smooth muscle cell</p>
+           <p style="color:black;font-size:17px;">Schematic representation of a smooth muscle cell</p>
   </div>
  <div class="container">
   <img src="images/patt1.JPG"  height="400" width="250"/> 
-           <p style="color:black;font-size:17px;">Membrane potential</p>
+           <p style="color:black;font-size:17px;">Space-time plot of the membrane potential</p>
  </div>
 </div>
 </body>
