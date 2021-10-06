@@ -30,6 +30,7 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
  </div>
 </div>
 </body>
+<br/>
 
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.
 
