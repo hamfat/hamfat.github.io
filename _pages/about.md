@@ -14,7 +14,7 @@ I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.
 <body>
  <div style="text-align:center">
   <div class="container">
-  <a <img src="images/Capture1.JPG"  height="400" width="250"/>  </a>
+  <img src="images/Capture1.JPG"  height="400" width="250"/> 
            <p style="color:black;font-size:17px;">Membrane Mechanics</p>
   </div>
 </div>
