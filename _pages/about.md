@@ -8,24 +8,6 @@ redirect_from:
   - /about.html
 ---
 I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Fundamental Sciences</a> at Massey University, Palmerston North. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David Simpson</a>. I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
-<style>
-    div.container {
-      display:inline-block;
-       text-align:center;
-        margin: auto;
-    }
-
-    p {
-      text-align:center;
-    }
-  </style>
-
-<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-</style>
 
 
 
