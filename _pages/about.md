@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.
 <body>
  <div style="text-align:center">
   <div class="container">
-  <img src="images/Capture1.JPG"  height="400" width="250"/> 
+   <img src="images/Capture1.JPG"  height="400" width="250"/> 
            <p style="color:black;font-size:17px;">Two-dimensional bifurcation diagram of a piecewise linear map</p>
   </div>
 </div>
@@ -21,13 +21,13 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
 <body>
  <div style="text-align:center">
   <div class="container">
-  <img src="images/SMC.JPG"  height="400" width="250"/> 
+   <img src="images/SMC.JPG"  height="400" width="250"/> 
            <p style="color:black;font-size:17px;">Schematic representation of a smooth muscle cell</p>
   </div>
-    <div class="container">
+ <div class="container">
   <img src="images/patt1.JPG"  height="400" width="250"/> 
            <p style="color:black;font-size:17px;">Space-time plot of the membrane potential</p>
-  </div>
+ </div>
 </div>
 </body>
 
