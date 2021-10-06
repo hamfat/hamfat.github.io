@@ -8,8 +8,35 @@ redirect_from:
   - /about.html
 ---
 I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Fundamental Sciences</a> at Massey University, Palmerston North. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David Simpson</a>. I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
+<style>
+    div.container {
+      display:inline-block;
+       text-align:center;
+        margin: auto;
+    }
 
-<img src="images/Capture1.JPG" alt="pivot" class="center" height="400" width="250" class="inline"/>
+    p {
+      text-align:center;
+    }
+  </style>
+
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+
+
+
+<body>
+ <div style="text-align:center">
+  <div class="container">
+  <a <img src="images/Capture1.JPG"  height="400" width="250"/>  </a>
+           <p style="color:black;font-size:17px;">Membrane Mechanics</p>
+  </div>
+</div>
+</body>
 
 My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell. I analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials.
 
