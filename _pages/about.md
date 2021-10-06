@@ -30,15 +30,12 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
 <body>
  <div style="text-align:center">
   <div class="container">
-   <img src="images/patt1.JPG"  height="400" width="250"/> 
+   <img src="images/patt1.JPG"  height="450" width="250"/> 
            <p style="color:black;font-size:17px;">Space-time plot of the membrane potential</p>
   </div>
 </div>
 </body>
-<br/>
-
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.
-
 
 News  
 ===
