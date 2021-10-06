@@ -15,7 +15,7 @@ I am a Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.
  <div style="text-align:center">
   <div class="container">
   <img src="images/Capture1.JPG"  height="400" width="250"/> 
-           <p style="color:black;font-size:17px;">Membrane Mechanics</p>
+           <p style="color:black;font-size:17px;">Two-dimensional bifurcation diagram of a piecewise linear map</p>
   </div>
 </div>
 </body>
