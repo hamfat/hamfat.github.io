@@ -8,9 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Officer/Postdoctoral Fellow in Mathematics in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Fundamental Sciences</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. Currently, I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
+I am a <a href=" https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=069350">Research Officer/Postdoctoral Fellow in Mathematics</a> in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Fundamental Sciences</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. Currently, I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
 
-<style>
+<style>     
 .content {
   max-width: 500px;
   margin: auto;
