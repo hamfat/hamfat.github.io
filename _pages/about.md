@@ -50,7 +50,7 @@ News
 Upcoming activities
 ===
 * December 2-3, 2021: <a href="https://www.maths.usyd.edu.au/u/integrable/index.html"> Ninth Workshop on Integrable Systems </a>, The University of Sydney, Australia.
-* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> SThe International Conference on Decision Aid Sciences and Applications (DASA'21)</a>.
+* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> The International Conference on Decision Aid Sciences and Applications (DASA'21)</a>, The University of Bahrain.
    
 
 Past activities
