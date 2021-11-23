@@ -49,8 +49,8 @@ News
 
 Upcoming activities
 ===
-* December 7-9, 2021: <a href="https://nzmathsoc.org.nz/colloquium2021/home.php"> New Zealand Mathematical Society Colloquium</a>, University of Canterbury, Christchurch.
-* November 22-26, 2021: Dynamical Systems in NZ
+* December 2-3, 2021: <a href="https://www.maths.usyd.edu.au/u/integrable/index.html"> Ninth Workshop on Integrable Systems </a>, The University of Sydney, Australia.
+* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> SThe International Conference on Decision Aid Sciences and Applications (DASA'21)</a>.
    
 
 Past activities
@@ -60,7 +60,7 @@ Past activities
 * August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
 * July 19-23, 2021: <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
 * June 28-July 1, 2021 <a href="https://www.danieleavitabile.com/icmns2021digital/">2021 International Conference on Mathematical Neuroscience - Digital Edition</a>.
-* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology.
+* June 24, 2021: Workshop on PDE Models in Mathematical Biology. Host: <a href="http://www.mj-simpson.com/workshop.html">Professor Mathhew J. Simpson</a>, Queensland University of Technology, Australia.
 * June 13-17, 2021: <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
 * June 1-4, 2021: <a href="http://www.softmech.org/events/headline_791379_en.html">5th SofTMech Soft Tissue Modelling workshop: On-line</a>. 
 * May 23-27, 2021: <a href="https://www.siam.org/conferences/cm/conference/ds21"> SIAM Conference on Applications of Dynamical Systems (DS21)</a>.
