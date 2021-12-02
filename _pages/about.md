@@ -39,7 +39,7 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
-* Decemnber 2021. <a href="https://www.maths.usyd.edu.au/u/integrable/posters/fatoyimbo.pdf">Poster presentation</a> at the <a href="https://www.maths.usyd.edu.au/u/integrable/index.html">Ninth Workshop on Integrable Systems</a>, The University of Sydney, Australia. 
+* December 2021. <a href="https://www.maths.usyd.edu.au/u/integrable/posters/fatoyimbo.pdf">Poster presentation</a> at the <a href="https://www.maths.usyd.edu.au/u/integrable/index.html">Ninth Workshop on Integrable Systems</a>, The University of Sydney, Australia. 
 * August 2021. PhD abstract published in the <a href="http://nzmathsoc.org.nz/downloads/newsletters/NZMSnews142_Aug2021.pdf?t=1630274000"> NZMS</a> newsletter.
 * July 2021. I received a Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
 * June 2021. <a href="http://schedule.smb2021.org/NEUR/NEUR-PS03-NEUR-3.html">Poster presentation</a> at the <a href="https://www.smb2021.org/home">SMB 2021 Annual Meeting</a>. 
