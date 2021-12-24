@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Modified_ML
 excerpt: ''
 date: 2021-02-09
-venue: 'Submitted to Eur Phy Jour B'
+venue: 'To appear in Eur Phy Jour B'
 
 ---
 
