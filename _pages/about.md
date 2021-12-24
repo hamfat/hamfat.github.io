@@ -26,7 +26,7 @@ I am a <a href=" https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=069
 </div>
 </body>
 
-My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>
+My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. See our papers <embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper 1](https://hamfat.github.io/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small} 
 <body>
  <div style="text-align:center">
   <div class="container">
@@ -39,6 +39,7 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
+* December 2021. Our paper on Modified Morris_Lecar model is accepted for publication in European Physical Journal B
 * December 2021. <a href="https://www.maths.usyd.edu.au/u/integrable/posters/fatoyimbo.pdf">Poster presentation</a> at the <a href="https://www.maths.usyd.edu.au/u/integrable/index.html">Ninth Workshop on Integrable Systems</a>, The University of Sydney, Australia. 
 * August 2021. PhD abstract published in the <a href="http://nzmathsoc.org.nz/downloads/newsletters/NZMSnews142_Aug2021.pdf?t=1630274000"> NZMS</a> newsletter.
 * July 2021. I received a Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
@@ -50,13 +51,14 @@ News
 
 Upcoming activities
 ===
-* December 2-3, 2021: <a href="http://natural-sciences.nwu.ac.za/paa/3MC-Course"> 3MC Course on Anticancer Drug Modeling </a>, North-West University, South Africa.
-* December 2-3, 2021: <a href="https://www.maths.usyd.edu.au/u/integrable/index.html"> Ninth Workshop on Integrable Systems </a>, The University of Sydney, Australia.
-* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> The International Conference on Decision Aid Sciences and Applications (DASA'21)</a>, The University of Bahrain.
+
    
 
 Past activities
 ===
+* December 2-3, 2021: <a href="http://natural-sciences.nwu.ac.za/paa/3MC-Course"> 3MC Course on Anticancer Drug Modeling </a>, North-West University, South Africa.
+* December 2-3, 2021: <a href="https://www.maths.usyd.edu.au/u/integrable/index.html"> Ninth Workshop on Integrable Systems </a>, The University of Sydney, Australia.
+* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> The International Conference on Decision Aid Sciences and Applications (DASA'21)</a>, The University of Bahrain.
 * September 26-October 1, 2021: <a href="http://www.birs.ca/events/2021/5-day-workshops/21w5225/participants"> Modeling and Computational Approaches to Individual and Collective Cell Movement in Complex Environments (Online)</a>.
 * September 6-9, 2021: <a href="https://sites.google.com/view/modis2021/home-page?authuser=0"> Modelling Diffusive Systems: Theory & Biological Applications</a>.  
 * August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
