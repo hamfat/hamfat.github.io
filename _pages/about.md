@@ -26,7 +26,7 @@ I am a <a href=" https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=069
 </div>
 </body>
 
-My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>.  
+My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. <embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper I](https://hamfat.github.io/files/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small}, <embed src="https://hamfat.github.io/files/BMB_II.pdf" type="application/pdf" />[Paper II](https://hamfat.github.io/files/BMB_II.pdf){: .btn .btn--inverse .btn--small}
 <body>
  <div style="text-align:center">
   <div class="container">
@@ -35,13 +35,12 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
   </div>
 </div>
 </body>
-<embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper I](https://hamfat.github.io/files/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small}, <embed src="https://hamfat.github.io/files/BMB_II.pdf" type="application/pdf" />[Paper II](https://hamfat.github.io/files/BMB_II.pdf){: .btn .btn--inverse .btn--small}
 
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.  
 
 News  
 ===
-* December 2021. Our paper on Modified Morris_Lecar model is accepted for publication in European Physical Journal B
+* December 2021. Our paper on Modified Morris_Lecar model accepted for publication in European Physical Journal B.
 * December 2021. <a href="https://www.maths.usyd.edu.au/u/integrable/posters/fatoyimbo.pdf">Poster presentation</a> at the <a href="https://www.maths.usyd.edu.au/u/integrable/index.html">Ninth Workshop on Integrable Systems</a>, The University of Sydney, Australia. 
 * August 2021. PhD abstract published in the <a href="http://nzmathsoc.org.nz/downloads/newsletters/NZMSnews142_Aug2021.pdf?t=1630274000"> NZMS</a> newsletter.
 * July 2021. I received a Travel Award in the form of a registration waiver for the <a href="https://www.siam.org/conferences/cm/conference/an21"> SIAM Annual Meeting (AN21)</a>.
