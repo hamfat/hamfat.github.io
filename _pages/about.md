@@ -26,7 +26,7 @@ I am a <a href=" https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=069
 </div>
 </body>
 
-My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. See our papers <embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper I](https://hamfat.github.io/files/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small} and  <embed src="https://hamfat.github.io/files/BMB_II.pdf" type="application/pdf" />[Paper II](https://hamfat.github.io/files/BMB_II.pdf){: .btn .btn--inverse .btn--small} 
+My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>.  
 <body>
  <div style="text-align:center">
   <div class="container">
@@ -35,6 +35,8 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
   </div>
 </div>
 </body>
+<embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper I](https://hamfat.github.io/files/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small}, <embed src="https://hamfat.github.io/files/BMB_II.pdf" type="application/pdf" />[Paper II](https://hamfat.github.io/files/BMB_II.pdf){: .btn .btn--inverse .btn--small}
+
 Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.  
 
 News  
