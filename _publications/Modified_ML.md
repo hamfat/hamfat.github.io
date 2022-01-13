@@ -3,8 +3,8 @@ title: "Influence of Sodium Inward Current on Dynamical Behaviour of Modified Mo
 collection: publications
 permalink: /publications/Modified_ML
 excerpt: ''
-date: 2021-02-09
-venue: 'To appear in Eur Phy Jour B'
+date: 2022-01-06
+venue: 'Eur Phy Jour B'
 
 ---
 
