@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a <a href=" https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=069350">Research Officer/Postdoctoral Fellow in Mathematics</a> in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Fundamental Sciences</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. Currently, I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
+I am a <a href=" https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=069350">Research Officer/Postdoctoral Fellow in Mathematics</a> in the <a href="https://www.massey.ac.nz/massey/explore/departments/institute-fundamental-sciences/institute-fundamental-sciences_home.cfm">School of Mathematical and Computational Sciences</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience and cardiovascular systems. Currently, I am working on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator is <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. This project is funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
 
 <style>     
 .content {
@@ -52,14 +52,16 @@ News
 
 Upcoming activities
 ===
-
+* February 8-11, 2022: <a href="https://anziam2022.com.au/"> ANZIAM Annual Conference 2022</a> – Perth, WA.
+* February 8-11, 2022: <a href="https://sites.google.com/view/dsabns2022/home?authuser=0"> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2022</a> - Bilbao, Basque Country.
+   
    
 
 Past activities
 ===
+* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> The International Conference on Decision Aid Sciences and Applications (DASA'21)</a>, The University of Bahrain.
 * December 2-3, 2021: <a href="http://natural-sciences.nwu.ac.za/paa/3MC-Course"> 3MC Course on Anticancer Drug Modeling </a>, North-West University, South Africa.
 * December 2-3, 2021: <a href="https://www.maths.usyd.edu.au/u/integrable/index.html"> Ninth Workshop on Integrable Systems </a>, The University of Sydney, Australia.
-* December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> The International Conference on Decision Aid Sciences and Applications (DASA'21)</a>, The University of Bahrain.
 * September 26-October 1, 2021: <a href="http://www.birs.ca/events/2021/5-day-workshops/21w5225/participants"> Modeling and Computational Approaches to Individual and Collective Cell Movement in Complex Environments (Online)</a>.
 * September 6-9, 2021: <a href="https://sites.google.com/view/modis2021/home-page?authuser=0"> Modelling Diffusive Systems: Theory & Biological Applications</a>.  
 * August 1-8, 2021: <a href="https://compucell3d.org/Workshop21"> CompuCell3D 16th User Training Workshop (Online)</a>.
