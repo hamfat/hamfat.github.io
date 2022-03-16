@@ -40,6 +40,14 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
+* March 2022. Our graphical abstract for the paper published in EPJB made the cover page for the issue <body>
+ <div style="text-align:center">
+  <div class="container">
+   <img src="images/epjb.jpg"  height="450" width="250"/> 
+           <p style="color:black;font-size:17px;">Space-time plot of the membrane potential</p>
+  </div>
+</div>
+</body>
 * December 2021. Our paper on Modified Morris-Lecar model accepted for publication in European Physical Journal B.
 * December 2021. <a href="https://www.maths.usyd.edu.au/u/integrable/posters/fatoyimbo.pdf">Poster presentation</a> at the <a href="https://www.maths.usyd.edu.au/u/integrable/index.html">Ninth Workshop on Integrable Systems</a>, The University of Sydney, Australia. 
 * August 2021. PhD abstract published in the <a href="http://nzmathsoc.org.nz/downloads/newsletters/NZMSnews142_Aug2021.pdf?t=1630274000"> NZMS</a> newsletter.
@@ -52,13 +60,14 @@ News
 
 Upcoming activities
 ===
-* February 8-11, 2022: <a href="https://anziam2022.com.au/"> ANZIAM Annual Conference 2022</a> – Perth, WA.
-* February 8-11, 2022: <a href="https://sites.google.com/view/dsabns2022/home?authuser=0"> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2022</a> - Bilbao, Basque Country.
+* March 23-25, 2022: <a href="https://dasa22.mfu.ac.th/"> The International Conference on Decision Aid Sciences and Applications (DASA'22)</a>, Mae Fah Luang University, Thailand.
    
    
 
 Past activities
 ===
+* February 8-11, 2022: <a href="https://anziam2022.com.au/"> ANZIAM Annual Conference 2022</a> – Perth, WA.
+* February 8-11, 2022: <a href="https://sites.google.com/view/dsabns2022/home?authuser=0"> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2022</a> - Bilbao, Basque Country.
 * December 7-8, 2021: <a href="https://dasa21.uob.edu.bh/"> The International Conference on Decision Aid Sciences and Applications (DASA'21)</a>, The University of Bahrain.
 * December 2-3, 2021: <a href="http://natural-sciences.nwu.ac.za/paa/3MC-Course"> 3MC Course on Anticancer Drug Modeling </a>, North-West University, South Africa.
 * December 2-3, 2021: <a href="https://www.maths.usyd.edu.au/u/integrable/index.html"> Ninth Workshop on Integrable Systems </a>, The University of Sydney, Australia.
