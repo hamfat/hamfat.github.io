@@ -40,7 +40,8 @@ Before joining Massey, I received an MSc in Mathematical Sciences from African I
 
 News  
 ===
-* March 2022. Our graphical abstract for the paper published in EPJB made the cover page for the issue <body>
+* March 2022. Our graphical abstract for the paper published in EPJB made the cover page for the issue 
+<body>
  <div style="text-align:center">
   <div class="container">
    <img src="images/epjb.jpg"  height="450" width="250"/> 
