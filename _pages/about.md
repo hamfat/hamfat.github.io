@@ -44,7 +44,7 @@ News
  <div style="text-align:center">
   <div class="container">
    <img src="images/epjb.jpg"  height="450" width="250"/> 
-           <p style="color:black;font-size:17px;">Space-time plot of the membrane potential</p>
+           <p style="color:black;font-size:17px;">EPJB Cover</p>
   </div>
 </div>
 </body>
