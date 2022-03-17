@@ -44,8 +44,8 @@ News
 <body>
  <div style="text-align:center">
   <div class="container">
-   <img src="images/epjb.jpg"  height="450" width="250"/> 
-           <p style="color:black;font-size:17px;">EPJB Cover</p>
+   <img src="images/epjb.jpg"  height="450" width="270"/> 
+           <p style="color:black;font-size:17px;"></p>
   </div>
 </div>
 </body>
