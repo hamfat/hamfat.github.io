@@ -10,4 +10,3 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/9682382'
 
 ---
 
-[Arxiv link](https://ieeexplore.ieee.org/abstract/document/9682382)
