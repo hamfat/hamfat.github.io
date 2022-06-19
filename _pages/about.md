@@ -63,7 +63,7 @@ News
 
 Upcoming activities
 ===
-* July 11-29, 2022: <a href="[https://dasa22.mfu.ac.th/](https://m2pi.ca/)"> Math to Power Industry(M2PI 2022) </a>, Canada.  
+* July 11-29, 2022: <a href="[https://dasa22.mfu.ac.th/](https://m2pi.ca/)"> Math to Power Industry (M2PI 2022) </a>, Canada.  
 
 Past activities
 ===
