@@ -64,6 +64,7 @@ News
 Upcoming activities
 ===
 * November 17, 2022: MPI-Massey Day, Wellington, New Zealand.
+
 Past activities
 ===
 * July 11-29, 2022: <a href="https://m2pi.ca/"> Math to Power Industry (M2PI 2022) </a>, Canada.  
