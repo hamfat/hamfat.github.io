@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am a Postdoctoral Fellow at the <a href="https://www.massey.ac.nz/massey/learning/departments/centres-research/epicentre/epicentre_home.cfm">EpiCentre -- School of Veterinary Science</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience, cardiovascular systems, and epidemiology. 
 
-Recently, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="[https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/](https://arxiv.org/abs/2210.14445)">Click here for research output</a>.
+Recently, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://arxiv.org/abs/2210.14445"> Click here for research output </a>.
 
 <style>     
 .content {
