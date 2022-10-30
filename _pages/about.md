@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am a Postdoctoral Fellow at the <a href="https://www.massey.ac.nz/massey/learning/departments/centres-research/epicentre/epicentre_home.cfm">EpiCentre -- School of Veterinary Science</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience, cardiovascular systems, and epidemiology. 
 
-Recently, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. 
+Recently, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="[https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/](https://arxiv.org/abs/2210.14445)">Click here for research output</a>.
 
 <style>     
 .content {
@@ -28,7 +28,7 @@ Recently, I worked on robust chaos in switched dynamical systems in relation to 
 </div>
 </body>
 
-My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. <embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper I](https://hamfat.github.io/files/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small}<embed src="https://hamfat.github.io/files/BMB_II.pdf" type="application/pdf" />[Paper II](https://hamfat.github.io/files/BMB_II.pdf){: .btn .btn--inverse .btn--small}
+My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. <embed src="https://hamfat.github.io/files/HariDaB_2020.pdf" type="application/pdf" />[Paper I](https://hamfat.github.io/files/HaRiDaB_2020.pdf){: .btn .btn--inverse .btn--small}<embed src="https://hamfat.github.io/files/BMB_II.pdf" type="application/pdf" />[Paper II](https://hamfat.github.io/files/BMB_II.pdf)
 <body>
  <div style="text-align:center">
   <div class="container">
@@ -63,10 +63,10 @@ News
 
 Upcoming activities
 ===
-* July 11-29, 2022: <a href="[https://dasa22.mfu.ac.th/](https://m2pi.ca/)"> Math to Power Industry (M2PI 2022) </a>, Canada.  
-
+* November 17, 2022: MPI-Massey Day, Wellington, New Zealand.
 Past activities
 ===
+* July 11-29, 2022: <a href="https://m2pi.ca/"> Math to Power Industry (M2PI 2022) </a>, Canada.  
 * March 23-25, 2022: <a href="https://dasa22.mfu.ac.th/"> The International Conference on Decision Aid Sciences and Applications (DASA'22)</a>, Mae Fah Luang University, Thailand.
 * February 8-11, 2022: <a href="https://anziam2022.com.au/"> ANZIAM Annual Conference 2022</a> – Perth, WA.
 * February 8-11, 2022: <a href="https://sites.google.com/view/dsabns2022/home?authuser=0"> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences, DSABNS 2022</a> - Bilbao, Basque Country.
