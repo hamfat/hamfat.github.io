@@ -22,8 +22,10 @@ Education
 
 Employment History
 ======
-* 2021-Present: Research Officer in Mathematics
-  * School of Fundamental Sciences, Massey University
+* 2022- Present: Research Officer in Mathematics
+  * EpiCentre- School of Veterinary Science, Massey University
+* 2021-2022: Research Officer in Mathematics
+  * School of Mathematical and Computational Sciences, Massey University
 * 2019-2021: Academic Assistant
   * School of Fundamental Sciences, Massey University
   
@@ -46,7 +48,7 @@ Professional Organisations
   
 Computer Language Capabilities
 ======
-* Matlab, Python, LaTeX, XppAut, AUTO, Matcont, Microsoft office
+* Matlab, Python, R, LaTeX, XppAut, AUTO, Matcont, Microsoft office
   
   
 Skills
