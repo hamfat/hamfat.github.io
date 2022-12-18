@@ -63,10 +63,11 @@ News
 
 Upcoming activities
 ===
-* November 17, 2022: MPI-Massey Day, Wellington, New Zealand.
+
 
 Past activities
 ===
+* November 17, 2022: MPI-Massey Day, Wellington, New Zealand.
 * July 11-29, 2022: <a href="https://m2pi.ca/"> Math to Power Industry (M2PI 2022) </a>, Canada.  
 * March 23-25, 2022: <a href="https://dasa22.mfu.ac.th/"> The International Conference on Decision Aid Sciences and Applications (DASA'22)</a>, Mae Fah Luang University, Thailand.
 * February 8-11, 2022: <a href="https://anziam2022.com.au/"> ANZIAM Annual Conference 2022</a> – Perth, WA.
