@@ -1,6 +1,6 @@
 ---
 title: "Stability of Travelling Waves in a Model of Pacemaker Cells"
-collection: talks
+collection: Contributed talk
 type: "Contributed Talk"
 permalink: /talks/ANZIAM2021
 venue: ""
