@@ -1,6 +1,6 @@
 ---
 title: "Analysis of dengue fever transmission dynamics with multiple controls"
-collection: talks
+collection: Contributed talk
 type: "EpiCentre Seminar Series"
 permalink: /talks/EpiCentre
 venue: ""
