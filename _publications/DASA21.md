@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/DAS21
 excerpt: ''
 date: 2021-12-06
-venue: 'International Conference on Decision Aid Sciences and Application (DASA)'
+venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9682382'
 
 
