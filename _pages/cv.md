@@ -22,9 +22,9 @@ Education
 
 Employment History
 ======
-* 2022- Present: Research Officer in Mathematics
+* 2022- Present: Postdoctoral Fellow
   * EpiCentre- School of Veterinary Science, Massey University
-* 2021-2022: Research Officer in Mathematics
+* 2021-2022: Postdoctoral Fellow in Mathematics
   * School of Mathematical and Computational Sciences, Massey University
 * 2019-2021: Academic Assistant
   * School of Fundamental Sciences, Massey University
