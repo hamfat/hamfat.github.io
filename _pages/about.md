@@ -8,9 +8,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Fellow at the <a href="https://www.massey.ac.nz/massey/learning/departments/centres-research/epicentre/epicentre_home.cfm">EpiCentre -- School of Veterinary Science</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience, cardiovascular systems, and epidemiology. 
 
-Recently, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://arxiv.org/abs/2210.14445"> Click here for research output </a>.
+I am a lecturer in the Department of Mathematical Sciences in the School of Engineering, Computer, and Mathematical Sciences at Auckland University of Technology, New Zealand.
+
+My research focuses on applying dynamical systems theory to the physical and life sciences. I employ various mathematical techniques, including bifurcation theory, to analyze models of electrophysiological activities, with a particular emphasis on muscle cells. Moreover, I have also contributed to the mathematical modeling of infectious diseases, including dengue, COVID-19, avian influenza, and infectious bursal disease.
+
+Before joining AUT, I served as a postdoctoral fellow at <a href="https://www.massey.ac.nz/massey/learning/departments/centres-research/epicentre/epicentre_home.cfm">EpiCentre</a>, within the School of Veterinary Science at Massey University in Palmerston North, New Zealand.
+
+Previously, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Assoc. Prof David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://arxiv.org/abs/2210.14445"> Click here for research output </a>.
 
 <style>     
 .content {
@@ -28,7 +33,7 @@ Recently, I worked on robust chaos in switched dynamical systems in relation to 
 </div>
 </body>
 
-My PhD research was on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors are <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. Research publications:<a href="https://link.springer.com/article/10.1007/s11538-020-00771-6"> I</a>, <a href="https://link.springer.com/article/10.1007/s11538-022-01043-1">II</a>.
+My PhD research focused on mathematical analysis of the physiology of excitable cells, in particular smooth muscle cells. I used bifurcation theory to study electrophysiological activities in a single cell and analysed the collective behaviour of the smooth muscle cells through gap junction coupling between adjacent cells. The results showed that coupled cells can exhibit irregular spiking of action potentials. My supervisors were <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=630350">Dr Richard G. Brown</a>, <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=767130">Assoc. Prof Bruce van Brunt</a>, and <a href="https://www.massey.ac.nz/~djwsimps/">Assoc. Prof David J. W. Simpson</a>. Research publications:<a href="https://link.springer.com/article/10.1007/s11538-020-00771-6"> I</a>, <a href="https://link.springer.com/article/10.1007/s11538-022-01043-1">II</a>.
 
 <body>
  <div style="text-align:center">
@@ -39,7 +44,7 @@ My PhD research was on mathematical analysis of the physiology of excitable cell
 </div>
 </body>
 
-Before joining Massey, I received an MSc in Mathematical Sciences from African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.  
+Before joining Massey, I received an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences in Ghana and a B.Tech in Industrial Mathematics from the Federal University of Technology, Akure in Nigeria. I also had a diploma in Statistics from the Federal Polytechnic Ede in Osun State, Nigeria.  
 
 News  
 ===
