@@ -8,11 +8,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Lecturer in the Department of Mathematical Sciences, Auckland University of Technology, New Zealand.
+I am a Lecturer in the Department of Mathematical Sciences at Auckland University of Technology, New Zealand. My research interests lie in the application of dynamical systems theory to practical problems, including neuroscience, cardiovascular systems, and epidemiology.
 
-I am a Postdoctoral Fellow at the <a href="https://www.massey.ac.nz/massey/learning/departments/centres-research/epicentre/epicentre_home.cfm">EpiCentre -- School of Veterinary Science</a> at Massey University, Palmerston North. My research interests lie in application of dynamical systems theory to practical problems, including neuroscience, cardiovascular systems, and epidemiology. 
+Before joining AUT, I served as a postdoctoral fellow at the <a href="https://www.massey.ac.nz/massey/learning/departments/centres-research/epicentre/epicentre_home.cfm"> EpiCentre</a>, within the School of Veterinary Science at Massey University in Palmerston North, New Zealand. At the EpiCentre, I worked on various research projects including risk factor analysis of avian influenza and modelling of infectious bursal disease in commercial flock.
 
-Recently, I worked on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. My principal investigator was <a href="https://www.massey.ac.nz/~djwsimps/">Dr David J. W. Simpson</a>. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://arxiv.org/abs/2210.14445"> Click here for research output </a>.
+After my PhD, I worked as a postdoc with <a href="https://www.massey.ac.nz/~djwsimps/"> Associate Professor David J. W. Simpson</a> on robust chaos in switched dynamical systems in relation to the project titled "Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems.". The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://www.worldscientific.com/doi/10.1142/S0218127423300197"> Click here for research output </a>. 
+
+After my PhD, I worked as a postdoc with <a href="https://www.massey.ac.nz/~djwsimps/">Associate Professor David J. W. Simpson</a> on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://www.worldscientific.com/doi/10.1142/S0218127423300197"> Click here for research output </a>.
 
 <style>     
 .content {
