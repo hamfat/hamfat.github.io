@@ -14,8 +14,6 @@ Before joining AUT, I served as a postdoctoral fellow at the <a href="https://ww
 
 After my PhD, I worked as a postdoc with <a href="https://www.massey.ac.nz/~djwsimps/"> Associate Professor David J. W. Simpson</a> on robust chaos in switched dynamical systems in relation to the project titled "Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems.". The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://www.worldscientific.com/doi/10.1142/S0218127423300197"> Click here for research output </a>. 
 
-After my PhD, I worked as a postdoc with <a href="https://www.massey.ac.nz/~djwsimps/">Associate Professor David J. W. Simpson</a> on robust chaos in switched dynamical systems in relation to the project titled “Organised chaos: Using geometry to explain robust chaotic dynamics in switched dynamical systems”. The project was funded through the <a href="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">Royal Society of NZ Marsden Fund</a>. <a href="https://www.worldscientific.com/doi/10.1142/S0218127423300197"> Click here for research output </a>.
-
 <style>     
 .content {
   max-width: 500px;
